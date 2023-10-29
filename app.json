@@ -1,9 +1,9 @@
 {
   "name": "𝐓𝐔f𝐈𝐒𝐔𝐍",
   "description": "〔 سـورس تــوفـسـون 𝐓𝐔f𝐈𝐒𝐔𝐍 𓅛 〕افضـل سـورسـات تليثـون يـوزربـوت العربيـة : › عربـي بالكـامل › تحديثـات متواصـله › فـارات تلقـائيـه بسهولـه〔 حصريـاً 〕- مطـور السـورس : تــوفــي ",
-  "logo": "https://telegra.ph/file/c91c09fb188f0f281e628.jpg",
+  "logo": "https://telegra.ph/file/776a38496074bb547caa1.png",
   "keywords": ["plugin","modular","productivity"],
-  "repository": "https://github.com/Zilzalll/lite",
+  "repository": "https://github.com/kazmabbas/bot",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -13,11 +13,11 @@
     },
     "APP_ID": {
       "description": "كـود ايبي ايـدي〔 App id 〕لا تغيرهـا",
-      "value": "27455984"
+      "value": ""
     },
     "API_HASH": {
       "description": "كـود ايبي هـاش〔 Api hash 〕..لا تغيرهـا",
-      "value": "62d5f68ce2e9189636967120220f5755"
+      "value": ""
     },
     "STRING_SESSION": {
       "description": "كـــود تيـــرمكـــس - الكـود الكبيـر مـن بـوت تيرمكــس",
